@@ -1,0 +1,27 @@
+body {
+    background: rgba(255, 239, 239, 0.884);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+
+}
+
+a:link, a:visited {
+    color: rgb(135, 184, 181);
+}
+  
+a:hover, a:active {
+    color: rgb(112, 75, 94);
+}
+
+.jumbotron {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("images/stardust.png");
+    background-size: cover;
+    background-color: rgb(71, 71, 71);
+    word-spacing: 15px;
+}
+
+#proud {
+	border-top: 3px solid rgb(135, 184, 181);
+}

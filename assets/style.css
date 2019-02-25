@@ -1,5 +1,5 @@
 body {
-    background: rgba(255, 255, 255, 0.884);
+    background: rgba(250, 246, 246, 0.884);
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
 
@@ -24,4 +24,8 @@ a:hover, a:active {
 
 #proud {
 	border-top: 3px solid rgb(135, 184, 181);
+}
+
+#git {
+    border-top: 3px solid rgb(135, 184, 181);
 }
